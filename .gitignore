@@ -1,0 +1,8 @@
+.idea/
+.ipynb_checkpoints/*
+*.pt
+*.avi
+*.mp4
+*.gif
+*.jpg
+*.jpeg
